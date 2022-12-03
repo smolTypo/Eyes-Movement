@@ -4,6 +4,7 @@
 This is an exercise developed during MIT xPro Full Stack Bootcamp
 
 The "eyes" elements will follow the mouse position on the screen using mouse events
+
 Demo: https://smoltypo.github.io/Eyes-Movement/
 
 
@@ -16,9 +17,9 @@ The objective of this exercise is to use Javascript to animates the eye image to
 This is a progression project, no further development is anticipated at this time.
 
 # File structure:
--index.html
--eyes.js
--styles.css
+  -index.html
+  -eyes.js
+  -styles.css
 
 # MIT License
 

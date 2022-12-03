@@ -1,7 +1,6 @@
 # Eyes-Movement-Exercise
-
-<img src="https://github.com/smolTypo/Eyes-Movement/blob/main/freakyEyes.png" width='200'/>
 This is an exercise developed during MIT xPro Full Stack Bootcamp
+<img src="https://github.com/smolTypo/Eyes-Movement/blob/main/freakyEyes.png" width='200'/>
 
 The "eyes" elements will follow the mouse position on the screen using mouse events
 

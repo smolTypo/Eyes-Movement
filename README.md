@@ -3,8 +3,7 @@
 
 This is an exercise developed during MIT xPro Full Stack Bootcamp
 
-Eye-movement exercise that will follow the mouse position across the screen using CSS, HTML, and JavaScript
-
+Using HTML, CSS, and JavaScript to create an animation of an eye that follows the cursor around the screen. 
 Demo: https://smoltypo.github.io/Eyes-Movement/
 
 

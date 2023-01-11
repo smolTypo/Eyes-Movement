@@ -1,4 +1,4 @@
-# Eyes-Movement-Exercise
+# Eyes Movement Exercise
 <img src="https://github.com/smolTypo/Eyes-Movement/blob/main/freakyEyes.png" width='300'/>
 
 This is an exercise developed during MIT xPro Full Stack Bootcamp
